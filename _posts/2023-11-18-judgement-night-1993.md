@@ -10,3 +10,4 @@ While racing to a boxing match, Frank, Mike, John and Rey get more than they bar
 * Anti-machismo, immasculation, cat & mouse, prey
 * Hero shot w. gun @15min
 * How do you navigate difficult situations? survive? what is your responsibility? to your tribe? to others?
+* Razor's negotiation - do the skills of the modern "successful" capilatist man serve us well?
