@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Judgment Night (1993)
-categories: [Thriller]
-excerpt: Judgment Night is a "what would you do if..." film...
+title:  What is $20 worth?
+categories: [Budget, Investing, Time Value of Money]
+excerpt: Is $20 always worth $20? Or could it be worth a LOT more?
 ---
 
 While racing to a boxing match, Frank, Mike, John and Rey get more than they bargained for. A wrong turn lands them directly in the path of Fallon, a vicious, wise-cracking drug lord. After accidentally witnessing Fallon murder a disloyal henchman, the four become his unwilling prey in a savage game of cat and mouse as they are mercilessly stalked through the urban jungle in this taut suspense drama.
